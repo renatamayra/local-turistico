@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+#page {
+   width: 1120px; 
+   margin: 88px auto;
+   box-sizing: border-box;  
+  }
+
+header h1 {
+  color: #1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 15px; /*no figma esta marcando Y:30 */
+}
+
+header img {
+  height: 660px;
+  border-radius: 28px;
+  margin-top: 40px;
+  margin-bottom: 24px;
+}
+
+header p{
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h4 {
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: auto;
+}
+
+section h4 {
+  margin-top: 64px;
+}
+
+section h2 {
+  color: 1B1B1B;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: auto;
+  height: 44px;
+  margin-bottom: 8px;
+}
+
+section p {
+  margin-bottom: 64px;
+  color: #333333;
+  font-size: 16px;
+  line-height: auto;
+  height: 88px;
+}
+
+.list img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+
